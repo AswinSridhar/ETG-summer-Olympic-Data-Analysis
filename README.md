@@ -16,9 +16,9 @@
          1)olympicAnalysis.ipynb
          2)olympicAnalysis.csv
        
-# we have to analysis what is the data about
+##  we have to analysis what is the data about
 To solve this problem i have used two library
-# using import pandas as pd to read the data and perform operation on that
+##  using import pandas as pd to read the data and perform operation on that
 import numpy as np to deal with array, matplotlib.pyplot to visualize data *used two main function -> df.groupby('Name') * to get the object containing name ,nameDataFrame where we perform different operation -> df.panasSeries.value_counts() * to get the count of each value in that column -> here i use bar plot to plot each data
         Solved Questions
         
